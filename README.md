@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Yapper 🚀
+**Open Source Voice AI Dashboard for White Labeling**
 
-## Getting Started
+Welcome to **Yapper** – your open source, customizable dashboard designed to simplify the integration of voice AI into your applications. Whether you're building a new product or enhancing an existing one, Yapper provides a flexible and intuitive platform for white labeling your voice AI solutions.  
+*This project is a work in progress, and contributions are warmly welcomed!* 🎉
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [License](#license)
+- [Contact](#contact)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Overview 📝
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Yapper is an innovative dashboard that brings voice AI technology into a user-friendly, customizable interface. With a focus on white labeling, it allows businesses and developers to integrate advanced voice recognition and natural language processing features under their own brand identity. This makes Yapper the perfect starting point for creating bespoke voice-enabled applications.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Features ✨
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Open Source**: Completely free and open for modification. 🔓
+- **White Labeling**: Easily rebrand and customize the dashboard to match your identity. 🎨
+- **Voice AI Integration**: Leverage powerful voice recognition and NLP capabilities. 🗣️
+- **Modular Architecture**: Extend and enhance functionality with plugins and integrations. 🔌
+- **User-Friendly Interface**: Manage settings and configurations effortlessly. 👌
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Installation 🛠️
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Node.js](https://nodejs.org/) (v12 or later)
+- [Git](https://git-scm.com/)
+
+### Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/yapper.git
+   cd yapper
