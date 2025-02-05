@@ -1,4 +1,4 @@
-# Yapper 🚀
+![Image](https://github.com/user-attachments/assets/cb3ecfa2-9b7a-4525-9d06-d6fd32ee0d28)
 **Open Source Voice AI Dashboard for White Labeling**
 
 Welcome to **Yapper** – your open source, customizable dashboard designed to simplify the integration of voice AI into your applications. Whether you're building a new product or enhancing an existing one, Yapper provides a flexible and intuitive platform for white labeling your voice AI solutions.  
