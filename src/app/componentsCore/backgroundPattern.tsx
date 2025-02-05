@@ -1,0 +1,42 @@
+"use client"
+
+import React from 'react';
+import styled from 'styled-components';
+
+const Pattern = () => {
+  return (
+    <StyledWrapper>
+      <div className="container" />
+    </StyledWrapper>
+  );
+}
+
+const StyledWrapper = styled.div`
+  width: 100%;
+  height: 100%;
+  
+  .container {
+    width: 100%;
+    height: 100%;
+    /* Add your background pattern here */
+    /* background-color: lightblue; */
+    background-image: radial-gradient(black 55%, #0000),
+      /* radial-gradient(black 55%, #0000), */
+        linear-gradient(
+          135deg,
+          red,
+          orange,
+          yellow,
+          lime,
+          cyan,
+          blue,
+          indigo,
+          deeppink
+        );
+    background-size: 100% 0.5%, contain;
+    /* background-blend-mode: hard-light; */
+    /* background-position: 0 0, 1em 1em, 0 0; */
+  }
+`;
+
+export default Pattern;
