@@ -39,14 +39,4 @@ Yapper is an innovative dashboard that brings voice AI technology into a user-fr
 
 ## Installation 🛠️
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v12 or later)
-- [Git](https://git-scm.com/)
-
-### Steps
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/yapper.git
-   cd yapper
+coming soon
